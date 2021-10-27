@@ -1,0 +1,47 @@
+img{
+border-radius: 30%;
+margin: 0 40%;
+height: 40%;
+}
+
+body {
+background-color: lightblue;
+font-family: century;
+text-align: justify;
+}
+h1 {
+color: white;
+font-weight: bold;
+text-align: center;
+}
+h2 {
+color: white;
+font-weight: lighter;
+text-align: center;
+}
+h3 {
+	color: white;
+font-weight: lighter;
+text-align: center;
+}
+p {
+color: black;
+font-family: calibri;
+}
+a {
+	text-decoration: none;
+color: black;
+}
+a:hover {
+color: cadetblue;
+}
+ div {
+ background: beige;
+ padding: 30px;
+ border-radius: 4px;
+ margin:  40px auto;
+ box-shadow: 0px 10px 20px rgba(0, 0, 0, 1.0);
+ width: 700px;
+ text-align: center;
+ }
+
